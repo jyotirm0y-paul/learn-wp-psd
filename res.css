@@ -1,0 +1,303 @@
+@media (max-width: 576px) {
+    .card-box {
+        width: 100%;
+        padding: 1vw;
+    }
+    .img-box img {
+        width: 100%;
+        height: 30vh;
+    }
+
+    .banner-box-one, .for-section-box-one, .for-section-box-two {
+        width: 100%;
+    }
+
+    .section-five img {
+        width: 80%;
+        margin-top: 15vh;
+        float: right;
+        margin: auto;
+    }
+
+    .for-section-box-two {
+        width: 80%;
+    }
+
+    .text-box>h1 {
+        font-size: 5vw;
+        line-height: 6vw;
+
+    }
+
+    .text-box>p {
+        font-size: 1.7vw;
+    }
+
+    .reserve-ticket-btn {
+        padding: .8vw 6vw;
+        font-size: 2vw;
+    }
+
+    .contact-btn {
+        width: 20vw;
+        font-size: 2vw;
+        border: .4vw solid rgb(0, 0, 0);
+        border-radius: 1vw;
+    }
+
+    .nav-bar>ul>li>a {
+        text-decoration: none;
+        display: revert;
+        color: #000;
+        margin: 0vw 3vw;
+        font-size: 2vw;
+    }
+
+    .memory-text-box>h1 {
+        font-size: 4vw;
+        line-height: 4vw;
+    }
+
+    .memory-text-box>p {
+        font-size: 1.4vw;
+    }
+
+    .memory-text-box {
+        width: 60%;
+        margin: 0px auto;
+    }
+
+    .travel-loge-btn {
+        padding: 0.5vw 6vw;
+        font-size: 2vw;
+        border-radius: .8vw;
+        margin-left: 10vw;
+    }
+
+    .card-text-box>h4 {
+        font-size: 4vw;
+        margin: 1vw 0vw;
+        line-height: 5vw;
+    }
+
+    .card-text-box>span {
+        margin: 2.5vw 0vw;
+        width: 10vw;
+    }
+
+    .card-text-box>p {
+        font-size: 2vw;
+        color: #000;
+    }
+
+    .setion-three-img-box {
+        width: 30%;
+    }
+
+    .section-three-box>p {
+        font-size: 2vw;
+    }
+
+    .title-box {
+        width: 40%;
+        font-size: 2vw;
+    }
+
+    .pragraph>p {
+        font-size: 1.4vw;
+        margin-left: 10%;
+    }
+
+    .pragraph {
+        width: 60%;
+    }
+
+    .section-five-img-box {
+        display: none;
+    }
+
+    .section-five-img-box {
+        width: 100%;
+    }
+
+    .section-five-img-box img {
+        width: 100%;
+    }
+
+    .section-five-box-two {
+        width: 100%;
+        display: block;
+    }
+
+    .section-five-box-two img {
+        width: 100%;
+        margin-top: 4vw;
+        margin-bottom: 0vw;
+        display: block;
+    }
+
+    .section-five-box-one {
+        width: 90%;
+        padding-top: 5vh;
+    }
+
+    .section-six-img-box {
+        display: none;
+    }
+
+    .section-six-box-one {
+        width: 100%;
+    }
+
+    .section-six-text-box>h1 {
+        font-size: 5vw;
+        line-height: 6vw;
+    }
+
+    .table-data {
+        font-size: 2vw;
+    }
+
+    .plus-icon {
+        font-size: 3vw;
+    }
+
+    .section-siven-card {
+        width: 100%;
+    }
+
+    .section-siven {
+        height: 209vh;
+    }
+
+    .section-six-box-one {
+        height: 20vh;
+    }
+
+    .section-six-box-two {
+        height: 20vh;
+    }
+
+    .input-box {
+        width: 100%;
+        height: 38vh;
+    }
+
+    .section-eight-img-box img {
+        width: 100%;
+        height: 22vh;
+    }
+
+    .section-eight-img-box {
+        width: 100%;
+        padding-left: 0%;
+        height: 22vh;
+    }
+
+    .section-eigth {
+        /* height: 120vh; */
+        padding: 0px;
+    }
+
+    .submit-btn {
+        width: 100%;
+        font-size: 4vw;
+        margin-top: 2vh;
+        border-radius: 0.4vw;
+        border: none;
+    }
+
+    .message-box {
+        width: 97%;
+    }
+
+    .input-field {
+        width: 97%;
+    }
+
+    .input-title {
+
+        font-size: 11vw;
+    }
+    .section-siven-text-box>h4 {
+        font-size: 6vw;
+    }
+    .section-siven-text-box>p {
+        text-align: center;
+        font-size: 3vw;
+        margin-top: 3.7vw;
+    }
+    .for-section-img-box img {
+        width: 100%;
+        height: 45vh;
+    }
+    .footer-box{
+        width: 100%;
+        text-align: center;
+    }
+    .footer-link-box>ul>li>a{
+        font-size:3vw;
+    }
+    .footer-title{
+        font-size:4vw;
+    }
+    .footer-log-box>h1{
+        font-size:9vw;
+        line-height: 8vw;
+        margin-bottom: 4vw;
+    }
+    .copy-right>p{
+        font-size:3vw ;
+    }
+
+}
+
+@media (min-width: 576px) {
+    .section-five-box-two {
+        display: none;
+    }
+    .card-box {
+        width: 47%;
+        padding: 1vw;
+    }
+    .section-siven-card{
+        width: 47%;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .section-five-box-two {
+        display: none;
+    }
+    .card-box {
+        width: 40%;
+        padding: 1vw;
+    }
+
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .section-five-box-two {
+        display: none;
+    }
+    .card-box {
+        width: 30%;
+        padding: 1vw;
+    }
+    .section-siven-card{
+        width: 30%;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .section-five-box-two {
+        display: none;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {}
